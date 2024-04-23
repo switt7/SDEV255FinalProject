@@ -3,3 +3,18 @@ html {
   width: 100%;
   padding: 5px;
 }
+body{
+  background-color: #AFEEEE;
+}
+h1{
+  color: #011F5B
+}
+h2{
+  color: #1E2952
+}
+p{
+  color: #002244
+}
+.login-container{
+  color: #082567
+}
